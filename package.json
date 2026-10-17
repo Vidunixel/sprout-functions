@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node api/index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,7 +12,7 @@
     "@lofcz/openscad-wasm": "^0.0.2",
     "canvas": "^3.2.3",
     "express": "^5.3.0",
-    "jsdom": "^29.1.1",
+    "jsdom": "^22.1.0",
     "multer": "^2.4.0",
     "three": "^0.186.1"
   }
